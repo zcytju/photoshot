@@ -19,6 +19,7 @@ services:
     ports:
       - "1080:80"
       - "25:25"
+
 volumes:
   postgresql:
   postgresql_data:
